@@ -31,8 +31,31 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/ea1c0ee7-1d9f-4c03-a50b-2224c0003156)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/811b7764-c7ae-4a2d-a74d-f98fbacd49b9)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/b80b54ac-5d50-45ad-93d9-03c0cff10b8a)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/3eacbe74-e015-48c9-9ac9-947ef3eeee7b)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/e6ae2e90-81f1-4f76-bf55-9213741978a5)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/3451c776-e134-4010-9b85-2a8d314ed94e)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/afce3b43-7fd1-410d-ae3f-1345a214ce85)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/887717df-6cef-4d8b-9f6c-55c08a9c2535)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/0565cfdf-500c-4472-a34b-376f7d69aa22)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/d0191853-ff75-451b-a7eb-608d85c08aa5)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/57703332-57fe-4b0a-b790-f40f27f0bf28)
+
+![image](https://github.com/Iswarya0580/EXNO-3-DS/assets/149989171/8fce0e42-ff59-40f9-9261-33198101f795)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the codes are executed successfully.
 
        
