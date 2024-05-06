@@ -1,5 +1,6 @@
 ## EXNO-3-DS
-
+# Name:Iswarya P
+# Reg no:212223230082
 # AIM:
 To read the given data and perform Feature Encoding and Transformation process and save the data to a file.
 
